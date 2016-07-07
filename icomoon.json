@@ -279,14 +279,14 @@
 				"width": 820,
 				"grid": 16,
 				"tags": [
-					"bing_small"
+					"bing"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 12,
 				"id": 11,
-				"name": "bing_small",
+				"name": "bing",
 				"prevSize": 16,
 				"code": 58880
 			},
@@ -569,14 +569,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"clojure_alt"
+					"clojure-alt"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 24,
 				"id": 23,
-				"name": "clojure_alt",
+				"name": "clojure-alt",
 				"prevSize": 16,
 				"code": 58984
 			},
@@ -642,14 +642,14 @@
 				"width": 878,
 				"grid": 16,
 				"tags": [
-					"code_badge"
+					"code-badge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 27,
 				"id": 26,
-				"name": "code_badge",
+				"name": "code-badge",
 				"prevSize": 16,
 				"code": 59043
 			},
@@ -860,14 +860,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"creativecommons_badge"
+					"creativecommons-badge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 36,
 				"id": 34,
-				"name": "creativecommons_badge",
+				"name": "creativecommons-badge",
 				"prevSize": 16,
 				"code": 59018
 			},
@@ -885,14 +885,14 @@
 				"width": 956,
 				"grid": 16,
 				"tags": [
-					"css_tricks"
+					"csstricks"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 37,
 				"id": 36,
-				"name": "css_tricks",
+				"name": "csstricks",
 				"prevSize": 16,
 				"code": 58881
 			},
@@ -909,14 +909,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"css3_full"
+					"css3-full"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 38,
 				"id": 37,
-				"name": "css3_full",
+				"name": "css3-full",
 				"prevSize": 16,
 				"code": 58954
 			},
@@ -1501,14 +1501,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"ghost_small"
+					"ghost-small"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 62,
 				"id": 61,
-				"name": "ghost_small",
+				"name": "ghost-small",
 				"prevSize": 16,
 				"code": 58900
 			},
@@ -1550,14 +1550,14 @@
 				"width": 732,
 				"grid": 16,
 				"tags": [
-					"git_branch"
+					"git-branch"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 64,
 				"id": 63,
-				"name": "git_branch",
+				"name": "git-branch",
 				"prevSize": 16,
 				"code": 58917
 			},
@@ -1574,14 +1574,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"git_commit"
+					"git-commit"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 65,
 				"id": 64,
-				"name": "git_commit",
+				"name": "git-commit",
 				"prevSize": 16,
 				"code": 58921
 			},
@@ -1599,14 +1599,14 @@
 				"width": 886,
 				"grid": 16,
 				"tags": [
-					"git_compare"
+					"git-compare"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 66,
 				"id": 65,
-				"name": "git_compare",
+				"name": "git-compare",
 				"prevSize": 16,
 				"code": 58920
 			},
@@ -1624,14 +1624,14 @@
 				"width": 878,
 				"grid": 16,
 				"tags": [
-					"git_merge"
+					"git-merge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 67,
 				"id": 66,
-				"name": "git_merge",
+				"name": "git-merge",
 				"prevSize": 16,
 				"code": 58919
 			},
@@ -1649,14 +1649,14 @@
 				"width": 820,
 				"grid": 16,
 				"tags": [
-					"git_pull_request"
+					"git-pullrequest"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 68,
 				"id": 67,
-				"name": "git_pull_request",
+				"name": "git-pullrequest",
 				"prevSize": 16,
 				"code": 58918
 			},
@@ -1698,14 +1698,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"github_alt"
+					"github-alt"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 70,
 				"id": 69,
-				"name": "github_alt",
+				"name": "github-alt",
 				"prevSize": 16,
 				"code": 58888
 			},
@@ -1722,14 +1722,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"github_badge"
+					"github-badge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 71,
 				"id": 70,
-				"name": "github_badge",
+				"name": "github-badge",
 				"prevSize": 16,
 				"code": 58889
 			},
@@ -1746,14 +1746,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"github_full"
+					"github-full"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 72,
 				"id": 71,
-				"name": "github_full",
+				"name": "github-full",
 				"prevSize": 16,
 				"code": 58903
 			},
@@ -1843,7 +1843,7 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"google_analytics",
+					"google-analytics",
 					"ga"
 				]
 			},
@@ -1851,7 +1851,7 @@
 			"properties": {
 				"order": 76,
 				"id": 75,
-				"name": "google_analytics",
+				"name": "google-analytics",
 				"prevSize": 16,
 				"code": 58976
 			},
@@ -1868,14 +1868,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"google_drive"
+					"google-drive"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 77,
 				"id": 76,
-				"name": "google_drive",
+				"name": "google-drive",
 				"prevSize": 16,
 				"code": 58929
 			},
@@ -1893,14 +1893,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"google-cloud-platform"
+					"google-cloudplatform"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 78,
 				"id": 77,
-				"name": "google-cloud-platform",
+				"name": "google-cloudplatform",
 				"prevSize": 16,
 				"code": 59058
 			},
@@ -2089,14 +2089,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"html5_3d_effects"
+					"html5-3deffects"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 86,
 				"id": 85,
-				"name": "html5_3d_effects",
+				"name": "html5-3deffects",
 				"prevSize": 16,
 				"code": 58933
 			},
@@ -2114,14 +2114,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"html5_connectivity"
+					"html5-connectivity"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 87,
 				"id": 86,
-				"name": "html5_connectivity",
+				"name": "html5-connectivity",
 				"prevSize": 16,
 				"code": 58932
 			},
@@ -2138,14 +2138,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"html5_device_access"
+					"html5-deviceaccess"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 88,
 				"id": 87,
-				"name": "html5_device_access",
+				"name": "html5-deviceaccess",
 				"prevSize": 16,
 				"code": 58931
 			},
@@ -2162,14 +2162,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"html5_multimedia"
+					"html5-multimedia"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 89,
 				"id": 88,
-				"name": "html5_multimedia",
+				"name": "html5-multimedia",
 				"prevSize": 16,
 				"code": 58930
 			},
@@ -2336,14 +2336,15 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"javascript_1"
+					"js",
+					"javascript"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 96,
 				"id": 95,
-				"name": "javascript",
+				"name": "js",
 				"prevSize": 16,
 				"code": 58958
 			},
@@ -2361,14 +2362,15 @@
 				"width": 904,
 				"grid": 16,
 				"tags": [
-					"javascript"
+					"js-shield",
+					"javascript-shield"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 97,
 				"id": 96,
-				"name": "javascript_shield",
+				"name": "js-shield",
 				"prevSize": 16,
 				"code": 58959
 			},
@@ -2386,7 +2388,6 @@
 				"width": 560,
 				"grid": 16,
 				"tags": [
-					"jekyll_small",
 					"jekyll",
 					"test-tube"
 				]
@@ -2395,7 +2396,7 @@
 			"properties": {
 				"order": 98,
 				"id": 97,
-				"name": "jekyll_small",
+				"name": "jekyll",
 				"prevSize": 16,
 				"code": 58893
 			},
@@ -2462,14 +2463,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"jquery_logo"
+					"jquery"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 101,
 				"id": 100,
-				"name": "jquery_logo",
+				"name": "jquery",
 				"prevSize": 16,
 				"code": 58960
 			},
@@ -2486,14 +2487,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"jquery_ui_logo"
+					"jquery-ui"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 102,
 				"id": 101,
-				"name": "jquery_ui",
+				"name": "jquery-ui",
 				"prevSize": 16,
 				"code": 58964
 			},
@@ -2510,14 +2511,15 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"js_badge"
+					"js-badge",
+					"javascript-badge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 103,
 				"id": 102,
-				"name": "javascript_badge",
+				"name": "js-badge",
 				"prevSize": 16,
 				"code": 59009
 			},
@@ -2584,14 +2586,14 @@
 				"width": 958,
 				"grid": 16,
 				"tags": [
-					"krakenjs_badge"
+					"krakenjs-badge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 106,
 				"id": 105,
-				"name": "krakenjs_badge",
+				"name": "krakenjs-badge",
 				"prevSize": 16,
 				"code": 59012
 			},
@@ -2780,14 +2782,15 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"materializecss"
+					"materialize",
+					"materialise"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 113,
 				"id": 112,
-				"name": "materializecss",
+				"name": "materialize",
 				"prevSize": 16,
 				"code": 59062
 			},
@@ -2845,14 +2848,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"meteorfull"
+					"meteor-full"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 194,
 				"id": 193,
-				"name": "meteorfull",
+				"name": "meteor-full",
 				"prevSize": 16,
 				"code": 59046
 			},
@@ -2869,14 +2872,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"mitlicence"
+					"mit"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 117,
 				"id": 116,
-				"name": "mitlicence",
+				"name": "mit",
 				"prevSize": 16,
 				"code": 59019
 			},
@@ -2967,14 +2970,14 @@
 				"width": 364,
 				"grid": 16,
 				"tags": [
-					"mootools_badge"
+					"mootools-badge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 121,
 				"id": 120,
-				"name": "mootools_badge",
+				"name": "mootools-badge",
 				"prevSize": 16,
 				"code": 59023
 			},
@@ -3016,14 +3019,14 @@
 				"width": 938,
 				"grid": 16,
 				"tags": [
-					"msql_server"
+					"msql-server"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 124,
 				"id": 123,
-				"name": "msql_server",
+				"name": "msql-server",
 				"prevSize": 16,
 				"code": 59004
 			},
@@ -3114,14 +3117,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"netmagazine"
+					"net-magazine"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 127,
 				"id": 126,
-				"name": "netmagazine",
+				"name": "net-magazine",
 				"prevSize": 16,
 				"code": 58926
 			},
@@ -3162,7 +3165,7 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"node.js"
+					"nodejs"
 				]
 			},
 			"attrs": [],
@@ -3187,14 +3190,14 @@
 				"width": 910,
 				"grid": 16,
 				"tags": [
-					"node.js_small"
+					"nodejs-small"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 129,
 				"id": 128,
-				"name": "nodejs_small",
+				"name": "nodejs-small",
 				"prevSize": 16,
 				"code": 58904
 			},
@@ -3578,14 +3581,14 @@
 				"width": 802,
 				"grid": 16,
 				"tags": [
-					"raspberry_pi"
+					"rasberry-pi"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 146,
 				"id": 145,
-				"name": "rasberry_pi",
+				"name": "rasberry-pi",
 				"prevSize": 16,
 				"code": 58914
 			},
@@ -3699,14 +3702,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"ror"
+					"ruby-on-rails"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 151,
 				"id": 150,
-				"name": "ruby_on_rails",
+				"name": "ruby-on-rails",
 				"prevSize": 16,
 				"code": 58939
 			},
@@ -3723,14 +3726,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"ruby_rough"
+					"ruby-rough"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 152,
 				"id": 151,
-				"name": "ruby_rough",
+				"name": "ruby-rough",
 				"prevSize": 16,
 				"code": 59025
 			},
@@ -3966,14 +3969,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"smashing_magazine"
+					"smashing-magazine"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 162,
 				"id": 161,
-				"name": "smashing_magazine",
+				"name": "smashing-magazine",
 				"prevSize": 16,
 				"code": 58925
 			},
@@ -3991,14 +3994,14 @@
 				"width": 618,
 				"grid": 16,
 				"tags": [
-					"snap_svg"
+					"snapsvg"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 163,
 				"id": 162,
-				"name": "snap_svg",
+				"name": "snapsvg",
 				"prevSize": 16,
 				"code": 58974
 			},
@@ -4214,14 +4217,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"symfony_badge"
+					"symfony-badge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 172,
 				"id": 171,
-				"name": "symfony_badge",
+				"name": "symfony-badge",
 				"prevSize": 16,
 				"code": 58967
 			},
@@ -4288,14 +4291,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"terminal_badge"
+					"terminal-badge"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 175,
 				"id": 174,
-				"name": "terminal_badge",
+				"name": "terminal-badge",
 				"prevSize": 16,
 				"code": 59042
 			},
@@ -4457,14 +4460,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"unity_small"
+					"unity"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 182,
 				"id": 181,
-				"name": "unity_small",
+				"name": "unity",
 				"prevSize": 16,
 				"code": 58913
 			},
@@ -4602,14 +4605,14 @@
 				"isMulticolor": false,
 				"grid": 16,
 				"tags": [
-					"yahoo_small"
+					"yahoo-small"
 				]
 			},
 			"attrs": [],
 			"properties": {
 				"order": 188,
 				"id": 187,
-				"name": "yahoo_small",
+				"name": "yahoo-small",
 				"prevSize": 16,
 				"code": 58923
 			},
