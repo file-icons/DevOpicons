@@ -11,7 +11,6 @@ No codepoints have changed from the original font. This is essentially the [Devi
 			<th>Codepoint</th>
 		</tr>
 	</thead>
-	
 	<!-- Multiple tbodies used to suppress GitHub's ugly backgrounds applied to every second <tr> node -->
 	<tbody><tr><td align="center"><a name="Android" href="https://cdn.rawgit.com/Alhadis/DevOpicons/master/svg/android.svg"><img src="https://cdn.rawgit.com/Alhadis/DevOpicons/master/svg/android.svg" height="34" valign="bottom" hspace="3" alt=""/></a></td><td><b>Android</b></td><td><a name="E60E"></a><code>\E60E</code></td></tr></tbody>
 	<tbody><tr><td align="center"><a name="Angular" href="https://cdn.rawgit.com/Alhadis/DevOpicons/master/svg/angular.svg"><img src="https://cdn.rawgit.com/Alhadis/DevOpicons/master/svg/angular.svg" height="34" valign="bottom" hspace="3" alt=""/></a></td><td><b>Angular</b></td><td><a name="E653"></a><code>\E653</code></td></tr></tbody>
